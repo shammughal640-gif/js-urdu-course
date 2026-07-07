@@ -1,2 +1,2 @@
-# js-urdu-course
+# js-course
 This repo is for me as I am learning the javascript
